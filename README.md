@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Suhitha Mithinti
+- 🌱 I’m currently learning Data science and Machine learning
